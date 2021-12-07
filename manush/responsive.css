@@ -1,0 +1,36 @@
+@media screen and (max-width:980px){
+    
+    
+    .box{
+        
+    margin: 60px;
+        margin-left:60px;
+        margin-top: 90px;
+    }
+    
+    
+}
+
+@media screen and (max-width:780px){
+    
+    .container{
+        
+        width: 90%;
+        
+    }
+    
+    @media screen and (max-width:480px)
+    {
+          
+    .box{
+        
+    margin: 50px;
+        margin-left:40px;
+        margin-top: 90px;
+    } 
+        
+        
+    }
+    
+    
+}
